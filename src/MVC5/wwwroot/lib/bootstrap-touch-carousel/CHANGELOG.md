@@ -31,7 +31,7 @@
 ### 0.2.0 - 2013-10-20
 * MSPointer benchmarks
 * fixes [#3](https://github.com/ixisio/bootstrap-touch-carousel/issues/3), touch optimizes indicator pills
-* [#2](https://github.com/ixisio/bootstrap-touch-carousel/issues/2), display captions on portait orientation iPad
+* [#2](https://github.com/ixisio/bootstrap-touch-carousel/issues/2), display captions on portrait orientation iPad
 * Create some unittest with qunit
 * Documentation
 
